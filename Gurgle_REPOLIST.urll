@@ -2,10 +2,10 @@
 //// Gurgle_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Gurgle project repositories by @seanpm2001
-//// As of 2025, Sunday, May 11th
+//// As of 2025, Monday, May 12th
 
 //// ----------------------------------------------------- \\\\
-//// Gurgle Project (28)
+//// Gurgle Project (36)
 //// ----------------------------------------------------- \\\\
 
 //// Gurgle Core (1)
@@ -81,9 +81,29 @@ https://github.com/seanpm2001/Gurgle_Maps_Docs
 https://github.com/seanpm2001/Gurgle_Suite
 https://github.com/seanpm2001/Gurgle_Suite_Docs
 
+//// //// Gurgle Docz (2)
+
+https://github.com/seanpm2001/Gurgle_Docz
+https://github.com/seanpm2001/Gurgle_Docz_Docs
+
+//// //// Gurgle Sheets (2)
+
+https://github.com/seanpm2001/Gurgle_Sheets
+https://github.com/seanpm2001/Gurgle_Sheets_Docs
+
+//// //// Gurgle Keep (2)
+
+https://github.com/seanpm2001/Gurgle_Keep
+https://github.com/seanpm2001/Gurgle_Keep_Docs
+
+//// //// Gurgle Slides (2)
+
+https://github.com/seanpm2001/Gurgle_Slides
+https://github.com/seanpm2001/Gurgle_Slides_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (Gurgle): 28
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2=28
+//// Repo count (Gurgle): 36
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=36
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -97,15 +117,15 @@ https://github.com/seanpm2001/DeGoogle-your-Life/
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 29
-//// 28+1=29
+//// Total repo count: 37
+//// 36+1=37
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 3 (2025, Sunday, May 11th at 07:15 pm PST)
-//// Line count (including blank lines and compiler line): 112
+//// File version: 4 (2025, Monday, May 12th at 06:57 pm PST)
+//// Line count (including blank lines and compiler line): 132
 //// ----------------------------------------------------- \\\\
 
 //// End of file
