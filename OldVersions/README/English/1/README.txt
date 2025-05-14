@@ -1,295 +1,604 @@
 
 ***
 
-# <projectName>
+<details open><summary><p><b>Click/tap here to expand/collapse the entire README file</b></p></summary>
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+# Gurgle
 
-# By:
+<details open><summary><p><b>Click/tap here to expand/collapse the title section</b></p></summary>
 
-![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg)
+`🇬💾️ The official source repository for the Gurgle project, a privacy-respecting, free and open source, alternative to Google. It also serves as a parody of Google.`
 
-### Top
-
-# `README.md`
+</details> <!-- End of Title section !-->
 
 ***
+
+## Table of Contents
+
+- [00.00 - Title](#Gurgle)
+- - [00.01 - Table of contents](#Table-of-Contents)
+- - [00.02 - Read this article in a different language](#Read-this-article-in-a-different-language)
+- - [00.03 - This repository](#This-repository)
+- - [00.04 - Repolist](#Repolist)
+- [01.00 - Products](#Products)
+- - [01.01 - Gurgle Gemini](#Gurgle-Gemini)
+- - [01.02 - Gurgle Gu(lang)/GuLaG](#Gu(lang)/GuLaG)
+- - [01.03 - Gurgle GFAIL](#Gurgle-GFAIL)
+- - [01.04 - Gurgle Chromosome](#Gurgle-Chromosome)
+- - [01.05 - Gurgle-](#Gurgle-Minus)
+- - [01.06 - Gurgle Search](#Gurgle-Search)
+- - [01.07 - ViewTube](#ViewTube)
+- - [01.08 - Gurgle Video](#Gurgle-Video)
+- - [01.09 - Gurgle Assistant](#Gurgle-Assistant)
+- - [01.10 - Gurgle Adz](#Gurgle-Adz)
+- - [01.11 - Gurgle Maps](#Gurgle-Maps)
+- - [01.12 - Gurgle Suite](#Gurgle-Suite)
+- - - [01.12.1 - Gurgle Docz](#Gurgle-Docz)
+- - - [01.12.2 - Gurgle Sheets](#Gurgle-Sheets)
+- - - [01.12.3 - Gurgle Slides](#Gurgle-Slides)
+- - - [01.12.4 - Gurgle Keep (all of my data)](#Gurgle-Keep)
+- - [01.13 - Gurgle PayUp](#Gurgle-PayUp)
+- - [01.14 - Gurgle Account](#Gurgle-Account)
+- - [01.15 - Gurgle Takeout](#Gurgle-Takeout)
+- - [01.16 - Gurgle Play](#Gurgle-Play)
+- [02.00 - Legal disclaimer](#Legal-disclaimer)
+- [03.00 - Original project draft](#Original-project-draft)
+- [04.00 - Common tags](#Common-tags)
+- [05.00 - File Info](#File-info)
+- [06.00 - File history](#File-history)
+- - [06.01 - Version 1 (2025, Tuesday, May 13th at xx:xx pm PST)](#Version-1-2025-Tuesday-May-13th-at-xx-xx-pm-PST)
+- [07.00 - Footer](#Footer)
+- - [07.99 - EOF](#EOF)
+
+***
+
+<!-- /%/2001_TRANSLATE_SECTION.BEGIN\%\ !-->
 
 ## Read this article in a different language
 
-[ar عربى](README_AR.md) [zh-t 中國傳統的）](README_ZH-T.md)[**en-us**](README.md) [fr français](README_FR.md) [de Deutsch](README_DE.md) [EO Esperanto](README_EO.md)  [ja 日本語](README_JA.md) [ko-south 韓國語](README_KO_SOUTH.md) [pl polski](README_PL.md) [ru русский](README_RU.md) [es en español](README_ES.md)
+<details open><summary><p><b>Click/tap here to expand/collapse the language switcher section</b></p></summary>
+
+**Sorted by:** `A-Z`
+
+[Sorting options unavailable](https://github.com/seanpm2001/SoftMicro/)
+
+( [af Afrikaans](/.github/README_AF.md) Afrikaans | [sq Shqiptare](/.github/README_SQ.md) Albanian | [am አማርኛ](/.github/README_AM.md) Amharic | [ar عربى](/.github/README_AR.md) Arabic | [hy հայերեն](/.github/README_HY.md) Armenian | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani | [eu Euskara](/.github/README_EU.md) Basque | [be Беларуская](/.github/README_BE.md) Belarusian | [bn বাংলা](/.github/README_BN.md) Bengali | [bs Bosanski](/.github/README_BS.md) Bosnian | [bg български](/.github/README_BG.md) Bulgarian | [ca Català](/.github/README_CA.md) Catalan | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano | [ny Chichewa](/.github/README_NY.md) Chichewa | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) | [co Corsu](/.github/README_CO.md) Corsican | [hr Hrvatski](/.github/README_HR.md) Croatian | [cs čeština](/.github/README_CS.md) Czech | [da dansk](README_DA.md) Danish | [nl Nederlands](/.github/README_NL.md) Dutch | [**en-us English**](/.github/README.md) English |  [EO Esperanto](/.github/README_EO.md) Esperanto | [et Eestlane](/.github/README_ET.md) Estonian | [tl Pilipino](/.github/README_TL.md) Filipino | [fi Suomalainen](/.github/README_FI.md) Finnish |  [fr français](/.github/README_FR.md) French | [fy Frysk](/.github/README_FY.md) Frisian | [gl Galego](/.github/README_GL.md) Galician | [ka ქართველი](/.github/README_KA) Georgian | [de Deutsch](/.github/README_DE.md) German | [el Ελληνικά](/.github/README_EL.md) Greek | [gu ગુજરાતી](/.github/README_GU.md) Gujarati | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole | [ha Hausa](/.github/README_HA.md) Hausa | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian | [he עִברִית](/.github/README_HE.md) Hebrew | [hi हिन्दी](/.github/README_HI.md) Hindi | [hmn Hmong](/.github/README_HMN.md) Hmong | [hu Magyar](/.github/README_HU.md) Hungarian | [is Íslenska](/.github/README_IS.md) Icelandic | [ig Igbo](/.github/README_IG.md) Igbo | [id bahasa Indonesia](/.github/README_ID.md) Icelandic | [ga Gaeilge](/.github/README_GA.md) Irish | [it Italiana/Italiano](/.github/README_IT.md) | [ja 日本語](/.github/README_JA.md) Japanese | [jw Wong jawa](/.github/README_JW.md) Javanese | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada | [kk Қазақ](/.github/README_KK.md) Kazakh | [km ខ្មែរ](/.github/README_KM.md) Khmer | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda | [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) | [ko-north 문화어](README_KO_NORTH.md) Korean (North) (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) | [ky Кыргызча](/.github/README_KY.md) Kyrgyz | [lo ລາວ](/.github/README_LO.md) Lao | [la Latine](/.github/README_LA.md) Latin | [lt Lietuvis](/.github/README_LT.md) Lithuanian | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish | [mk Македонски](/.github/README_MK.md) Macedonian | [mg Malagasy](/.github/README_MG.md) Malagasy | [ms Bahasa Melayu](/.github/README_MS.md) Malay | [ml മലയാളം](/.github/README_ML.md) Malayalam | [mt Malti](/.github/README_MT.md) Maltese | [mi Maori](/.github/README_MI.md) Maori | [mr मराठी](/.github/README_MR.md) Marathi | [mn Монгол](/.github/README_MN.md) Mongolian | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) | [ne नेपाली](/.github/README_NE.md) Nepali | [no norsk](/.github/README_NO.md) Norwegian | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) | [ps پښتو](/.github/README_PS.md) Pashto | [fa فارسی](/.github/README_FA.md) |Persian  [pl polski](/.github/README_PL.md) Polish | [pt português](/.github/README_PT.md) Portuguese | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian | [ru русский](/.github/README_RU.md) Russian | [sm Faasamoa](/.github/README_SM.md) Samoan | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic | [sr Српски](/.github/README_SR.md) Serbian | [st Sesotho](/.github/README_ST.md) Sesotho | [sn Shona](/.github/README_SN.md) Shona | [sd سنڌي](/.github/README_SD.md) Sindhi | [si සිංහල](/.github/README_SI.md) Sinhala | [sk Slovák](/.github/README_SK.md) Slovak | [sl Slovenščina](/.github/README_SL.md) Slovenian | [so Soomaali](/.github/README_SO.md) Somali | [[es en español](/.github/README_ES.md) Spanish | [su Sundanis](/.github/README_SU.md) Sundanese | [sw Kiswahili](/.github/README_SW.md) Swahili | [sv Svenska](/.github/README_SV.md) Swedish | [tg Тоҷикӣ](/.github/README_TG.md) Tajik | [ta தமிழ்](/.github/README_TA.md) Tamil | [tt Татар](/.github/README_TT.md) Tatar | [te తెలుగు](/.github/README_TE.md) Telugu | [th ไทย](/.github/README_TH.md) Thai | [tr Türk](/.github/README_TR.md) Turkish | [tk Türkmenler](/.github/README_TK.md) Turkmen | [uk Український](/.github/README_UK.md) Ukrainian | [ur اردو](/.github/README_UR.md) Urdu | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur | [uz O'zbek](/.github/README_UZ.md) Uzbek | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese | [cy Cymraeg](/.github/README_CY.md) Welsh | [xh isiXhosa](/.github/README_XH.md) Xhosa | [yi יידיש](/.github/README_YI.md) Yiddish | [yo Yoruba](/.github/README_YO.md) Yoruba | [zu Zulu](/.github/README_ZU.md) Zulu ) Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
 
 Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
 
-***
+Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't the intended page. You will be redirected to the [.github folder](/.github/) of this project, where the README translations are hosted.
 
-# Index
+Translations are currently done with Bing translate and DeepL. Support for Google Translate translations is coming to a close due to privacy concerns.
 
-[00.0 - Top](#Top)
+</details> <!-- End of language switcher section !-->
 
-> [00.1 - Title](#<projectName>)
-
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
-
-> [00.3 - Index](#Index)
-
-[01.0 - Description](#RepositoryName)
-
-[02.0 - About](#About)
-
-[03.0 - Wiki](#Wiki)
-
-[04.0 - Version history](#Version-history)
-
-[05.0 - Software status](#Software-status)
-
-[06.0 - Sponsor info](#Sponsor-info)
-
-[07.0 - Contributers](#Contributers)
-
-[08.0 - Issues](#Issues)
-
-> [08.1 - Current issues](#Current-issues)
-
-> [08.2 - Past issues](#Past-issues)
-
-> [08.3 - Past pull requests](#Past-pull-requests)
-
-> [08.4 - Active pull requests](#Active-pull-requests)
-
-[09.0 - Resources](#Resources)
-
-[10.0 - Contributing](#Contributing)
-
-[11.0 - About README](#About-README)
-
-[12.0 - README Version history](#README-version-history)
-
-[13.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [13.1 - End of file](#EOF)
+<!-- /%/2001_TRANSLATION_SECTION.END\%\ !-->
 
 ***
 
-# <repoName>
-<repo_description>
+<!-- /%/2001_THIS_REPOSITORY_SECTION.BEGIN\%\ !-->
+
+## This repository
+
+<details open><summary><p><b>Click/tap here to expand/collapse the this repository section</b></p></summary>
+
+[`View all files`](/ROOTFILES.base)
+
+| 📁️ Type 📄️ | 🔍️ Location 🔎️ | ℹ️ Purpose ℹ️ |
+|---|---|---|
+| 📁️ Folder/directory | [`/.github/`](/.github/) | GitHub repository configuration data |
+| 📁️ Folder/directory | [`/.gitlab/`](/.gitlab/) | GitLab repository configuration data |
+| 📁️ Folder/directory | [`/Docs/`](/Docs/) | For SoftMicro documentation (redirect) |
+| 📁️ Folder/directory | [`/OldVersions/`](/OldVersions/) | For archived old versions of files in this repository |
+| 📁️ Folder/directory | [`/RepoData/`](/RepoData/) | For general repository data (metadata, description) |
+| ⚙️ Configuration file | [`/.editorconfig`](/.editorconfig) | Editor Config file |
+| ⚙️ Configuration file | [`/.gitattributes`](/.gitattributes) | Git Attributes file |
+| ⚙️ Configuration file | [`/.gitignore`](/.gitignore) | Git Ignore file |
+| 🌐️ Webpage file | [`/404.html`](/404.html) | 404 page |
+| 🖼️ Image file | [`/404.jpeg`](/404.jpeg) | Image within 404 page |
+| ⬇️ Markdown file | [`/404.md`](/404.md) | 404 Jekyll page |
+| 👤️ Authors file | [`/AUTHORS`](/AUTHORS) | For displaying the authors of the project (plain text) |
+| 👤️ Authors file | [`/AUTHORS.md`](/AUTHORS.md) | For displaying the authors of the project (Markdown) |
+| 🤖️ Automation configuration file | [`/AUTOMATE2001.yaml`](/AUTOMATE2001.yaml) | For configuring the AUTOMATE2001 software tool to automate tasks on this repository. |
+| 🤖️ Automation configuration file | [`/AUTOMATE2001.yml`](/AUTOMATE2001.yml) | For configuring the AUTOMATE2001 software tool to automate tasks on this repository (copy) |
+| ✒️ Citation file | [`/CITATION.cff`](/CITATION.cff) | For enabling others to site this repository. |
+| 👥️ Contributions file | [`/CONTRIBUTING.md`](/CONTRIBUTING.md) | For listing instructions on what can/cannot be contributed to this project. |
+| 💳️ License file | [`/COPYINGL`](/COPYINGL) | A license hub that explains license usage for this project. |
+| 👤️ Credits file | [`/Credits`](/Credits) | For displaying the credits for the project (plain text) |
+| 👤️ Credits file | [`/Credits.wiki`](/Credits.wiki) | For displaying the credits for the project (WikiText) |
+| 🖼️ Image file | [`/DRM-free_label.en.svg`](/DRM-free_label.en.svg) | An image file that emphasizes this projects Anti-DRM stance. |
+| 1️⃣️ Initial file | [`/INITIAL_COMMIT.txt`](/INITIAL_COMMIT.txt) | A file that was generated alongside the repository, and represents the first commit |
+| 🔺️ Installation file | [`/INSTALL`](/INSTALL) | A file that gives instructions on how to install this project (plain text) |
+| 🔺️ Installation file | [`/INSTALL.rst`](/INSTALL.rst) | A file that gives instructions on how to install this project (reStructuredText) |
+| 🖥️ Linux Desktop entry file | [`/K.desktop`](/K.desktop) | A Linux desktop entry file for this project, allowing it to be easily launched on UNIX-like systems |
+| 💳️ License file | [`/LICENSE-GPL.ts`](/LICENSE-GPL.ts) | A GNU GPL3 license file for this project, with a TypeScript file extension |
+| 💳️ License file | [`/LICENSE-GPL.tsx`](/LICENSE-GPL.tsx) | A GNU GPL3 license file for this project, with a TypeScript file extension |
+| 💳️ License file | [`/LICENSE-GPL.txt`](/LICENSE-GPL.txt) | A GNU GPL3 license file for this project, with the Plain Text file extension |
+| 💳️ License file | [`/LICENSE-GPL3.ts`](/LICENSE-GPL3.ts) | A GNU GPL3 license file for this project, with a TypeScript file extension |
+| 💳️ License file | [`/LICENSE-GPL3.tsx`](/LICENSE-GPL3.tsx) | A GNU GPL3 license file for this project, with a TypeScript file extension |
+| 💳️ License file | [`/LICENSE-GPL3.txt`](/LICENSE-GPL3.txt) | A GNU GPL3 license file for this project, with the Plain Text file extension |
+| 💳️ License file | [`/LICENSE.ts`](/LICENSE.ts) | A GNU GPL3 license file for this project, with a TypeScript file extension |
+| 💳️ License file | [`/LICENSE.tsx`](/LICENSE.tsx) | A GNU GPL3 license file for this project, with a TypeScript file extension |
+| 💳️ License file | [`/LICENSE.txt`](/LICENSE.txt) | A GNU GPL3 license file for this project, with the Plain Text file extension |
+| ⭐️ README file | [`/README.md`](/README.md) | The main README.md file for this project, explaining how to use this project, and where to start. |
+| 📜️ Rootfiles list file | [`/ROOTFILES.base`](/ROOTFILES.base) | The ROOTFILES base file for this project, listing all files and folders at the root of this repository. |
+| 🛡️ Security file | [`/SECURITY.md`](/SECURITY.md) | For listing security information for this project. |
+| 🖼️ Image file | [`/Gurgle_PlaceholderLogo.png`](/Gurgle_PlaceholderLogo.png) | A placeholder logo for Gurgle |
+| 📋️ Repository list file | [`/Gurgle_REPOLIST.urll`](/Gurgle_REPOLIST.urll) | For displaying a list of all repositories in this project group. |
+| 🖼️ Image file | [`/SponsorButton.png`](/SponsorButton.png) | An image file that shows the GitHub sponsor button in this project. |
+| 1️⃣️ Initial file | [`/Temolate-Python-Other.md`](/Template-Python-Other.md) | An initial file, indicating which branch of the generation template was used to create this repository. |
+| ⚙️ Configuration file | [`/_config.yml`](/_config.yml) | A configuration file for the Jekyll theme on this project. |
+| 🖥️ Windows Desktop entry file | [`/desktop.ini`](/desktop.ini) | The Windows desktop entry file for this project. |
+| 🔨️ Makefile | [`/makefile.mk`](/makefile.mk) | The main GNU Make build file for this project. |
+| 📃️ Pull request template | [`/pull_request_template.md`](/pull_request_template.md) | The pull request template file for this project, a template for starting a Git pull request. |
+| **📁️ Type 📄️** | **🔍️ Location 🔎️** | **ℹ️ Purpose ℹ️** |
+
+</details> <!-- End of this repository section !-->
+
+<!-- /%/2001_THIS-REPOSITORY_SECTION.END\%\ !-->
+
 
 ***
 
-## About
+## Repolist
 
-See above. <extendedRepoDescription>
+<details open><summary><p><b>Click/tap here to expand/collapse the RepoList section</b></p></summary>
 
-***
+<img src="Gurgle_PlaceholderLogo.png" alt="Gurgle placeholder logo failed to load" width="128" height="128" title="Gurgle">
 
-## Wiki
+- [View the REPOLIST file for this project](/Gurgle_REPOLIST.urll)
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
+</details> <!-- End of RepoList section !-->
 
 ***
 
-## Sponsor info
+## Products
 
-![SponsorButton.png](SponsorButton.png)
+<details open><summary><p><b>Click/tap here to expand/collapse the products section</b></p></summary>
 
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+- Gurgle Gemini
+- Gurgle Gu(lang)/GuLaG
+- GFAIL
+- Gurgle Chromosome
+- Gurgle-
+- Gurgle Search
+- ViewTube
+- Gurgle Video
+- Gurgle Assistant
+- Gurgle Adz
+- Gurgle Maps
+- Gurgle Suite
+- - Gurgle Docz
+- - Gurgle Sheets
+- - Gurgle Slides
+- - Gurgle Keep (all of my data)
+- Gurgle PayUp
+- Gurgle Account
+- Gurgle Takeout
+- Gurgle Play
+- More coming soon
 
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
+---
 
-Try it out! The sponsor button is right up next to the watch/unwatch button.
+### Gurgle Gemini
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Gemini section</b></p></summary>
+
+> [:octocat: `Gurgle Gemini`](https://github.com/seanpm2001/Gurgle_Gemini/)
+
+A parody of Google Gemini
+
+Hi, I am Gemini. I am a product made purely out of spite to compete with another program, and I am designed to be thrown away/discarded in the future.
+
+</details> <!-- End of Gurgle Gemini section !-->
+
+---
+
+### Gurgle Gu(lang)/GuLaG
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle GuLa(n)G section</b></p></summary>
+
+> [:octocat: `Gurgle Gu Language`](https://github.com/seanpm2001/Gurgle_GuLang/)
+
+A parody of Google Golang
+
+Go steamrolled over Go! and now Gu shall steamroll over Go, and restore Go!
+
+</details> <!-- End of Gurgle Gemini section !-->
+
+---
+
+### Gurgle GFAIL
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle GFAIL section</b></p></summary>
+
+> [:octocat: `Gurgle GFAIL`](https://github.com/seanpm2001/Gurgle_GFAIL/)
+
+A parody of Google Mail (GMAIL)
+
+Failed to send email. Please try again later.
+
+</details> <!-- End of Gurgle GFAIL section !-->
+
+---
+
+### Gurgle Chromosome
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Chromosome section</b></p></summary>
+
+> [:octocat: `Gurgle Chromosome`](https://github.com/seanpm2001/Gurgle_Chromosome/)
+
+A parody of Google Chrome
+
+Ch**rome** wasn't built in a day, in fact, it is still compiling.
+
+</details> <!-- End of Gurgle GFAIL section !-->
+
+---
+
+### Gurgle Minus
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Minus section</b></p></summary>
+
+> [:octocat: `Gurgle Minus`](https://github.com/seanpm2001/Gurgle_Minus/)
+
+A parody of Google Plus.
+
+</details> <!-- End of Gurgle Minus section !-->
+
+---
+
+### Gurgle Search
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Search section</b></p></summary>
+
+> [:octocat: `Gurgle Search`](https://github.com/seanpm2001/Gurgle_Search/)
+
+A parody of Google Search.
+
+</details> <!-- End of Gurgle Search section !-->
+
+---
+
+### ViewTube
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle ViewTube section</b></p></summary>
+
+> [:octocat: `Gurgle ViewTube`](https://github.com/seanpm2001/Gurgle_ViewTube/)
+
+A parody of Google-owned YouTube.
+
+ViewTube Poop. Because ViewTube is, where the poop is (no longer YouTube, due to Copyright)
+
+</details> <!-- End of Gurgle ViewTube section !-->
+
+---
+
+### Gurgle Video
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Video section</b></p></summary>
+
+> [:octocat: `Gurgle Video`](https://github.com/seanpm2001/Gurgle_Video/)
+
+A parody of Google Video. The ViewTube nobody knew.
+
+Sorry, but you can't upload a 6 second low quality soundless GIF from an old TV show, due to Copyright, but you can freely watch millions of high quality, sound-capable videos of that show, and thousands of others (without DRM) (this is not a joke, this is actually true)
+
+</details> <!-- End of Gurgle Video section !-->
+
+---
+
+### Gurgle Assistant
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Assistant section</b></p></summary>
+
+> [:octocat: `Gurgle Assistant`](https://github.com/seanpm2001/Gurgle_Assistant/)
+
+A parody of Google Assistant.
+
+- [USER] Hey Gurgle, please stop spying on me.
+- [ASS] Here are some results for stop: [about:blank]
+- [COM] Joke needs significant improvement.
+
+</details> <!-- End of Gurgle Assistant section !-->
+
+---
+
+### Gurgle Adz
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Adz section</b></p></summary>
+
+> [:octocat: `Gurgle Adz`](https://github.com/seanpm2001/Gurgle_Adz/)
+
+A parody of Google Ads.
+
+Here, have a couple of 10 minute unskippable ads on a 3 second video.
+
+- Ad 1 of 42: quality: 8640p (default)
+- ...
+- Video: 360p (default)
+
+> In case you missed it
+
+- [image: man on beach]
+
+- Ketamine
+
+</details> <!-- End of Gurgle Video section !-->
+
+---
+
+### Gurgle Maps
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Maps section</b></p></summary>
+
+> [:octocat: `Gurgle Map`](https://github.com/seanpm2001/Gurgle_Maps/)
+
+A parody of Google Maps.
+
+</details> <!-- End of Gurgle Maps section !-->
+
+---
+
+### Gurgle Suite
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Maps section</b></p></summary>
+
+> [:octocat: `Gurgle Suite`](https://github.com/seanpm2001/Gurgle_Suite/)
+
+A parody of the Google Suite (GSuite)
+
+</details> <!-- End of Gurgle Suite section !-->
+
+---
+
+#### Gurgle Docz
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Docz section</b></p></summary>
+
+> [:octocat: `Gurgle Docz`](https://github.com/seanpm2001/Gurgle_Docz/)
+
+A parody of Google Docs.
+
+</details> <!-- End of Gurgle Docz section !-->
+
+---
+
+#### Gurgle Sheets
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Sheets section</b></p></summary>
+
+> [:octocat: `Gurgle Sheets`](https://github.com/seanpm2001/Gurgle_Sheets/)
+
+A parody of Google Sheets.
+
+</details> <!-- End of Gurgle Sheets section !-->
+
+---
+
+#### Gurgle Slides
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Slides section</b></p></summary>
+
+> [:octocat: `Gurgle Slides`](https://github.com/seanpm2001/Gurgle_Slides/)
+
+A parody of Google Slides.
+
+</details> <!-- End of Gurgle Slides section !-->
+
+---
+
+#### Gurgle Keep
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Keep section</b></p></summary>
+
+> [:octocat: `Gurgle Keep`](https://github.com/seanpm2001/Gurgle_Keep/)
+
+A parody of Google Keep.
+
+Gurgle Keep (short for Keep all of my data) is used to collect data, then sell it to aliens (so that they can target you from Saturn)
+
+</details> <!-- End of Gurgle Slides section !-->
+
+---
+
+#### Gurgle PayUp
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle PayUp section</b></p></summary>
+
+> [:octocat: `Gurgle PayUp`](https://github.com/seanpm2001/Gurgle_PayUp/)
+
+A parody of Google Pay.
+
+</details> <!-- End of Gurgle PayUp section !-->
+
+---
+
+#### Gurgle Account
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Account section</b></p></summary>
+
+> [:octocat: `Gurgle Account`](https://github.com/seanpm2001/Gurgle_Account/)
+
+A parody of Google Accounts.
+
+</details> <!-- End of Gurgle Account section !-->
+
+---
+
+#### Gurgle Takeout
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Takeout section</b></p></summary>
+
+> [:octocat: `Gurgle Takeout`](https://github.com/seanpm2001/Gurgle_Takeout/)
+
+A parody of Google Takeout.
+
+Giving you the user data and all information for a random user.
+
+</details> <!-- End of Gurgle Takeout section !-->
+
+---
+
+#### Gurgle Play
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Play section</b></p></summary>
+
+> [:octocat: `Gurgle Play`](https://github.com/seanpm2001/Gurgle_Play/)
+
+A parody of Google Play.
+
+</details> <!-- End of Gurgle Play section !-->
+
+---
+
+_End of products section_
+
+</details> <!-- End of Products section !-->
 
 ***
 
-## Version history
+## Legal disclaimer
 
-**Version history currently unavailable**
+<details open><summary><p><b>Click/tap here to expand/collapse the Legal Disclaimer section</b></p></summary>
 
-**No other versions listed**
+Gurgle is a non-profit collaborative parody. It is not associated/affiliated with Google LLC or Alphabet Inc.
 
-***
+If parody is not accepted: Fair Use
 
-## Software status
-
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
-
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
-
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
+</details> <!-- End of Legal Disclaimer section !-->
 
 ***
 
-## Contributers
+## Original project draft
 
-Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+<details open><summary><p><b>Click/tap here to expand/collapse the Original project draft section</b></p></summary>
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
+about:blank
 
-> * 2. No other contributers.
+```
 
-***
 
-## Issues
+COMING SOON
 
-### Current issues
 
-* None at the moment
+```
 
-* No other current issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past issues
-
-* None at the moment
-
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+</details> <!-- End of Original project draft section !-->
 
 ***
 
-## Resources
+## Common tags
 
-Here are some other resources for this project:
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-[Project language file](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
+Common tags for this project.
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
+| [:octocat: `#gurgle`](https://github.com/topics/gurgle/) | [:octocat: `#gurgle-project`](https://github.com/topics/gurgle-project/) | [:octocat: `#gurgle-development`](https://github.com/topics/gurgle-development/) | [:octocat: `#gurgle-docs`](https://github.com/topics/gurgle-docs/) | [:octocat: `#google-parody`](https://github.com/topics/google-parody/) | [:octocat: `#parody`](https://github.com/topics/parody/) | [:octocat: `#spoof`](https://github.com/topics/spoof/) | [:octocat: `#gpl3`](https://github.com/topics/gpl3/) | [:octocat: `#gplv3`](https://github.com/topics/gplv3/) |
 
-No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is allowed for this project, as long as you follow the rules of the `CONTRIBUTING.md` file.
-
-[Click/tap here to view the contributing rules for this project](CONTRIBUTING.md)
+</details> <!-- End of Common tags section !-->
 
 ***
 
-## About README
+<!-- /%/2001_FILE_INFO_SECTION.BEGIN\%\ !-->
 
-File type: `Markdown (*.md)`
+### File Info
 
-File version: `0.1 (Sunday, March 21st 2021 at 7:50 pm)`
+<details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
-Line count: `0,296`
+- **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
+- **File version:** `1 (2025, Tuesday, May 13th at 06:09 pm PST)`
+- **Line count (including blank lines and compiler line):** `0,605`
+- **Word count:** `04,061`
+- **Character count (with spaces):** `027,987 characters`
+- **Character count (without spaces)** `024,254 characters`
+- **File size (in bytes)** `28,669 characters`
+- **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
+- **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+- **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
+
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
+
+</details> <!-- End of File info section !-->
+
+<!-- /%/2001_FILE_INFO_SECTION.END\%\ !-->
 
 ***
 
-## README version history
+<details open><summary><H2>File history</H2></summary>
 
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+History of this file.
+
+---
+
+<details open><summary><H2>Version 1 (2025, Tuesday, May 13th at 06:09 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the first version of the file. It is coming a bit late in the history of this project. I finally felt like creating it today._
 
 > Changes:
 
-> * Started the file
+- [x] Started the file
+- [x] Added the Title section
+- [x] Added the Table of Contents section
+- [x] Added the Read this article in a different language section
+- [x] Added the This repository section
+- [x] Added the REPOLIST section
+- [x] Added the Products section
+- - [x] Added the Gurgle Gemini subsection
+- - [x] Added the Gurgle GuLa(n)g subsection
+- - [x] Added the Gurgle GFAIL subsection
+- - [x] Added the Gurgle Chromosome subsection
+- - [x] Added the Gurgle Minus subsection
+- - [x] Added the Gurgle Search subsection
+- - [x] Added the ViewTube subsection
+- - [x] Added the Gurgle Video subsection
+- - [x] Added the Gurgle Assistant subsection
+- - [x] Added the Gurgle Adz subsection
+- - [x] Added the Gurgle Maps subsection
+- - [x] Added the Gurgle Suite subsection
+- - - [x] Added the Gurgle Docz sub-subsection
+- - - [x] Added the Gurgle Sheets sub-subsection
+- - - [x] Added the Gurgle Slides sub-subsection
+- - - [x] Added the Gurgle Keep sub-subsection
+- - [x] Added the Gurgle PayUp subsection
+- - [x] Added the Gurgle Account subsection
+- - [x] Added the Gurgle Takeout subsection
+- - [x] Added the Gurgle Play subsection
+- [x] Added the Legal Disclaimer section
+- [x] Added the Original project draft section
+- [x] Added the Common Tags section
+- [x] Added the File Info section
+- [x] Added the File history section
+- - [x] Added a file history entry for version 1
+- [x] Added the Footer section
+- [ ] No other changes in version 1
 
-> * Added the title section
+</details> <!-- End of V1 !-->
 
-> * Added the index
+---
 
-> * Added the about section
+_End of file history section._
 
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
+</details> <!-- End of File history section !-->
 
 ***
 
-### You have reached the end of the README file
+# Footer
 
-[Back to top](#Top) [Exit](https://github.com)
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-### EOF
+You have reached the end of this page.
+
+( [Return to top](#Top) | [Exit to GitHub](https://github.com/) | [Exit to GistHub (Gist.github.com)](https://gist.github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Safe.DuckDuckGo.com](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) | [Exit to Swisscows](https://www.swisscows.com/) )
+
+</details> <!-- End of footer !-->
+
+###### EOF
+
+</details>
 
 ***
