@@ -2,10 +2,10 @@
 //// Gurgle_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Gurgle project repositories by @seanpm2001
-//// As of 2025, Tuesday, May 13th
+//// As of 2025, Wednesday, May 14th
 
 //// ----------------------------------------------------- \\\\
-//// Gurgle Project (44)
+//// Gurgle Project (52)
 //// ----------------------------------------------------- \\\\
 
 //// Gurgle Core (1)
@@ -101,29 +101,49 @@ https://github.com/seanpm2001/Gurgle_Keep_Docs
 https://github.com/seanpm2001/Gurgle_Slides
 https://github.com/seanpm2001/Gurgle_Slides_Docs
 
-//// //// Gurgle PayUp (2)
+//// Gurgle PayUp (2)
 
 https://github.com/seanpm2001/Gurgle_PayUp
 https://github.com/seanpm2001/Gurgle_PayUp_Docs
 
-//// //// Gurgle Account (2)
+//// Gurgle Account (2)
 
 https://github.com/seanpm2001/Gurgle_Account
 https://github.com/seanpm2001/Gurgle_Account_Docs
 
-//// //// Gurgle Takeout (2)
+//// Gurgle Takeout (2)
 
 https://github.com/seanpm2001/Gurgle_Takeout
 https://github.com/seanpm2001/Gurgle_Takeout_Docs
 
-//// //// Gurgle Play (2)
+//// Gurgle Play (2)
 
 https://github.com/seanpm2001/Gurgle_Play
 https://github.com/seanpm2001/Gurgle_Play_Docs
 
+//// Gurgle Play House (2)
+
+https://github.com/seanpm2001/Gurgle_Play-House
+https://github.com/seanpm2001/Gurgle_Play-House_Docs
+
+//// Gurgle Books (2)
+
+https://github.com/seanpm2001/Gurgle_Books
+https://github.com/seanpm2001/Gurgle_Books_Docs
+
+//// Gurgle News (2)
+
+https://github.com/seanpm2001/Gurgle_News
+https://github.com/seanpm2001/Gurgle_News_Docs
+
+//// Gurgle Drawings (2)
+
+https://github.com/seanpm2001/Gurgle_Drawings
+https://github.com/seanpm2001/Gurgle_Drawings_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (Gurgle): 44
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=44
+//// Repo count (Gurgle): 52
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=52
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -137,15 +157,15 @@ https://github.com/seanpm2001/DeGoogle-your-Life/
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 45
-//// 44+1=45
+//// Total repo count: 53
+//// 52+1=53
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 5 (2025, Tuesday, May 13th at 06:10 pm PST)
-//// Line count (including blank lines and compiler line): 152
+//// File version: 6 (2025, Wednesday, May 14th at 07:03 pm PST)
+//// Line count (including blank lines and compiler line): 172
 //// ----------------------------------------------------- \\\\
 
 //// End of file
