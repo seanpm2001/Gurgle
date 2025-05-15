@@ -41,12 +41,17 @@
 - - [01.14 - Gurgle Account](#Gurgle-Account)
 - - [01.15 - Gurgle Takeout](#Gurgle-Takeout)
 - - [01.16 - Gurgle Play](#Gurgle-Play)
+- - [01.17 - Gurgle Play House](#Gurgle-Play-House)
+- - [01.18 - Gurgle Books](#Gurgle-Books)
+- - [01.19 - Gurgle News](#Gurgle-News)
+- - [01.20 - Gurgle Drawings](#Gurgle-Drawings)
 - [02.00 - Legal disclaimer](#Legal-disclaimer)
 - [03.00 - Original project draft](#Original-project-draft)
 - [04.00 - Common tags](#Common-tags)
 - [05.00 - File Info](#File-info)
 - [06.00 - File history](#File-history)
-- - [06.01 - Version 1 (2025, Tuesday, May 13th at xx:xx pm PST)](#Version-1-2025-Tuesday-May-13th-at-xx-xx-pm-PST)
+- - [06.01 - Version 1 (2025, Tuesday, May 13th at 06:09 pm PST)](#Version-1-2025-Tuesday-May-13th-at-06-09-pm-PST)
+- - [06.01 - Version 2 (2025, Wednesday, May 14th at xx:xx pm PST)](#Version-2-2025-Wednesday-May-14th-at-xx-xx-pm-PST)
 - [07.00 - Footer](#Footer)
 - - [07.99 - EOF](#EOF)
 
@@ -126,7 +131,7 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 | 🖼️ Image file | [`/Gurgle_PlaceholderLogo.png`](/Gurgle_PlaceholderLogo.png) | A placeholder logo for Gurgle |
 | 📋️ Repository list file | [`/Gurgle_REPOLIST.urll`](/Gurgle_REPOLIST.urll) | For displaying a list of all repositories in this project group. |
 | 🖼️ Image file | [`/SponsorButton.png`](/SponsorButton.png) | An image file that shows the GitHub sponsor button in this project. |
-| 1️⃣️ Initial file | [`/Temolate-Python-Other.md`](/Template-Python-Other.md) | An initial file, indicating which branch of the generation template was used to create this repository. |
+| 1️⃣️ Initial file | [`/Temolate-TypeScript-Other.md`](/Template-TypeScript-Other.md) | An initial file, indicating which branch of the generation template was used to create this repository. |
 | ⚙️ Configuration file | [`/_config.yml`](/_config.yml) | A configuration file for the Jekyll theme on this project. |
 | 🖥️ Windows Desktop entry file | [`/desktop.ini`](/desktop.ini) | The Windows desktop entry file for this project. |
 | 🔨️ Makefile | [`/makefile.mk`](/makefile.mk) | The main GNU Make build file for this project. |
@@ -176,7 +181,13 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 - Gurgle Account
 - Gurgle Takeout
 - Gurgle Play
+- Gurgle Play House
+- Gurgle Books
+- Gurgle News
+- Gurgle Drawings
 - More coming soon
+
+todo: Use this project as a companion to the DeGoogle-your-Life project. It can be the humor, and the example, alongside the article text.
 
 ---
 
@@ -452,6 +463,54 @@ A parody of Google Play.
 
 ---
 
+#### Gurgle Play House
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Play House section</b></p></summary>
+
+> [:octocat: `Gurgle Play House`](https://github.com/seanpm2001/Gurgle_Play-House/)
+
+A parody of Google Play services, and a compilation of Gurgle Play projects.
+
+</details> <!-- End of Gurgle Play House section !-->
+
+---
+
+#### Gurgle Books
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Books section</b></p></summary>
+
+> [:octocat: `Gurgle Books`](https://github.com/seanpm2001/Gurgle_Books/)
+
+A parody of Google Books.
+
+</details> <!-- End of Gurgle Books section !-->
+
+---
+
+#### Gurgle News
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle News section</b></p></summary>
+
+> [:octocat: `Gurgle News`](https://github.com/seanpm2001/Gurgle_News/)
+
+A parody of Google News.
+
+</details> <!-- End of Gurgle News section !-->
+
+---
+
+#### Gurgle Drawings
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Drawings section</b></p></summary>
+
+> [:octocat: `Gurgle Drawings`](https://github.com/seanpm2001/Gurgle_Drawings/)
+
+A parody of Google Drawings.
+
+</details> <!-- End of Gurgle Drawings section !-->
+
+---
+
 _End of products section_
 
 </details> <!-- End of Products section !-->
@@ -507,12 +566,12 @@ Common tags for this project.
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `1 (2025, Tuesday, May 13th at 06:09 pm PST)`
-- **Line count (including blank lines and compiler line):** `0,605`
-- **Word count:** `04,061`
-- **Character count (with spaces):** `027,987 characters`
-- **Character count (without spaces)** `024,254 characters`
-- **File size (in bytes)** `28,669 characters`
+- **File version:** `2 (2025, Wednesday, May 14th at 07:05 pm PST)`
+- **Line count (including blank lines and compiler line):** `0,687`
+- **Word count:** `04,427`
+- **Character count (with spaces):** `030,455 characters`
+- **Character count (without spaces)** `026,361 characters`
+- **File size (in bytes)** `31,137 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -578,6 +637,29 @@ History of this file.
 - [ ] No other changes in version 1
 
 </details> <!-- End of V1 !-->
+
+---
+
+<details open><summary><H2>Version 2 (2025, Wednesay, May 14th at 07:05 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the second version of the file, with daily improvements._
+
+> Changes:
+
+- [x] Updated the Table of Contents section
+- [x] Updated the Products section
+- - [x] Added the Gurgle Play House subsection
+- - [x] Added the Gurgle Books subsection
+- - [x] Added the Gurgle News subsection
+- - [x] Added the Gurgle Drawings subsection
+- [x] Updated the File Info section
+- [x] Updated the File history section
+- - [x] Added a file history entry for version 2
+- [ ] No other changes in version 2
+
+</details> <!-- End of V2 !-->
 
 ---
 
