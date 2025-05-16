@@ -45,13 +45,18 @@
 - - [01.18 - Gurgle Books](#Gurgle-Books)
 - - [01.19 - Gurgle News](#Gurgle-News)
 - - [01.20 - Gurgle Drawings](#Gurgle-Drawings)
+- - [01.21 - Gurgle Pikasso](#Gurgle-Pikassa)
+- - [01.22 - Gurgle Orcut](#Gurgle-Orcut)
+- - [01.23 - Gurgle Hangover](#Gurgle-Hangover)
+- - [01.24 - Gurgle Pics](#Gurgle-Pics)
 - [02.00 - Legal disclaimer](#Legal-disclaimer)
 - [03.00 - Original project draft](#Original-project-draft)
 - [04.00 - Common tags](#Common-tags)
 - [05.00 - File Info](#File-info)
 - [06.00 - File history](#File-history)
 - - [06.01 - Version 1 (2025, Tuesday, May 13th at 06:09 pm PST)](#Version-1-2025-Tuesday-May-13th-at-06-09-pm-PST)
-- - [06.01 - Version 2 (2025, Wednesday, May 14th at xx:xx pm PST)](#Version-2-2025-Wednesday-May-14th-at-xx-xx-pm-PST)
+- - [06.02 - Version 2 (2025, Wednesday, May 14th at 07:05 pm PST)](#Version-2-2025-Wednesday-May-14th-at-07-05-pm-PST)
+- - [06.03 - Version 3 (2025, Thursday, May 15th at 05:26 pm PST)](#Version-3-2025-Thursday-May-15th-at-05-26-pm-PST)
 - [07.00 - Footer](#Footer)
 - - [07.99 - EOF](#EOF)
 
@@ -185,6 +190,10 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 - Gurgle Books
 - Gurgle News
 - Gurgle Drawings
+- Gurgle Pikasso
+- Gurgle Orcut
+- Gurgle Hangover
+- Gurgle Pics
 - More coming soon
 
 todo: Use this project as a companion to the DeGoogle-your-Life project. It can be the humor, and the example, alongside the article text.
@@ -511,6 +520,68 @@ A parody of Google Drawings.
 
 ---
 
+#### Gurgle Pikasso
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Pikasso section</b></p></summary>
+
+> [:octocat: `Gurgle Pikasso`](https://github.com/seanpm2001/Gurgle_Pikasso/)
+
+A parody of Google Picasso.
+
+Filters:
+
+- Picasso mode: Overwrite all of your photos with versions that have picasso cubism effect, and achieve true material design.
+- Material Design mode: Overwrite all of your photos with a material design variant, as everything needs to be boring and look exactly the same.
+
+</details> <!-- End of Gurgle Pikasso section !-->
+
+---
+
+#### Gurgle Orkut
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Orkut section</b></p></summary>
+
+> [:octocat: `Gurgle Orkut`](https://github.com/seanpm2001/Gurgle_Orkut/)
+
+A parody of Google Orkut.
+
+</details> <!-- End of Gurgle Orkut section !-->
+
+---
+
+#### Gurgle Hangover
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Hangover section</b></p></summary>
+
+> [:octocat: `Gurgle Hangover`](https://github.com/seanpm2001/Gurgle_Hangover/)
+
+A parody of Google Hangouts.
+
+Todo: 
+
+- Include sound effects, such as:
+- - default Google Hangouts sounds
+- - Distorted sounds related to an alcoholic hangover. 
+- Filters
+- - Drunk effect (both visually, and in the messages)
+- - Message randomizer
+
+</details> <!-- End of Gurgle Hangover section !-->
+
+---
+
+#### Gurgle Pics
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Pics section</b></p></summary>
+
+> [:octocat: `Gurgle Pics`](https://github.com/seanpm2001/Gurgle_Pics/)
+
+A parody of Google Photos.
+
+</details> <!-- End of Gurgle Pics section !-->
+
+---
+
 _End of products section_
 
 </details> <!-- End of Products section !-->
@@ -533,14 +604,78 @@ If parody is not accepted: Fair Use
 
 <details open><summary><p><b>Click/tap here to expand/collapse the Original project draft section</b></p></summary>
 
-about:blank
+Taken from a build from around early 2025, May
 
 ```
-
-
-COMING SOON
-
-
+A parody of Google (go BIG!)
+Gurgle ✔️
+Gurgle_Docs ✔️
+Gurgle_Gemini ✔️
+Gurgle_Gemini_Docs ✔️
+Gurgle_GuLang ✔️
+Gurgle_GuLang_Docs ✔️
+Gurgle_Gu ✔️
+Gurgle_Gu_Docs ✔️
+Gurgle_GFAIL ✔️
+Gurgle_GFAIL_Docs ✔️
+Gurgle_Chromosome ✔️
+Gurgle_Chromosome_Docs ✔️
+Gurgle_Minus ✔️
+Gurgle_Minus_Docs ✔️
+Gurgle_Search ✔️
+Gurgle_Search_Docs ✔️
+Gurgle_ViewTube ✔️
+Gurgle_ViewTube_Docs ✔️
+Gurgle_Video ✔️
+Gurgle_Video_Docs ✔️
+Gurgle_Assistant ✔️
+Gurgle_Assistant_Docs ✔️
+Gurgle_Adz ✔️
+Gurgle_Adz_Docs ✔️
+Gurgle_Maps ✔️
+Gurgle_Maps_Docs ✔️
+Gurgle_Suite ✔️
+Gurgle_Suite_Docs ✔️
+Gurgle_Docz ✔️
+Gurgle_Docz_Docs ✔️
+Gurgle_Sheets ✔️
+Gurgle_Sheets_Docs ✔️
+Gurgle_Keep ✔️
+Gurgle_Keep_Docs ✔️
+Gurgle_Slides ✔️
+Gurgle_Slides_Docs ✔️
+Gurgle_PayUp ✔️
+Gurgle_PayUp_Docs ✔️
+Gurgle_Account ✔️
+Gurgle_Account_Docs ✔️
+Gurgle_Takeout (🥡) ✔️
+Gurgle_Takeout_Docs ✔️
+Gurgle_Play ✔️
+Gurgle_Play_Docs ✔️
+Gurgle_Play-House ✔️
+Gurgle_Play-House_Docs ✔️
+Gurgle_Books ✔️
+Gurgle_Books_Doc ✔️
+Gurgle_News ✔️
+Gurgle_News_Docs ✔️
+Gurgle_Drawings ✔️
+Gurgle_Drawings_Docs ✔️
+Gurgle_Pikasso ✔️
+Gurgle_Pikasso_Docs ✔️
+Gurgle_Orcut ✔️
+Gurgle_Orcut_Docs ✔️
+Gurgle_Hangover (hangouts) (include audio) ✔️
+Gurgle_Hangover_Docs ✔️
+Gurgle_Pics ✔️
+Gurgle_Pics_Docs ✔️
+Gurgle_NarrowVineDRM
+Gurgle_NarrowVineDRM_Docs
+Gurgle_Code
+Gurgle_Code_Docs
+Gurgle_ChromosomeOS
+Gurgle_ChromosomeOS_Docs
+Gurgle_Fucksia
+Gurgle_Fucksia_Docs
 ```
 
 </details> <!-- End of Original project draft section !-->
@@ -566,12 +701,12 @@ Common tags for this project.
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `2 (2025, Wednesday, May 14th at 07:05 pm PST)`
-- **Line count (including blank lines and compiler line):** `0,687`
-- **Word count:** `04,427`
-- **Character count (with spaces):** `030,455 characters`
-- **Character count (without spaces)** `026,361 characters`
-- **File size (in bytes)** `31,137 characters`
+- **File version:** `3 (2025, Thursday, May 15th at 05:26 pm PST)`
+- **Line count (including blank lines and compiler line):** `0,846`
+- **Word count:** `05,013`
+- **Character count (with spaces):** `034,611 characters`
+- **Character count (without spaces)** `029,958 characters`
+- **File size (in bytes)** `35,536 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -640,7 +775,7 @@ History of this file.
 
 ---
 
-<details open><summary><H2>Version 2 (2025, Wednesay, May 14th at 07:05 pm PST)</H2></summary>
+<details open><summary><H2>Version 2 (2025, Wednesday, May 14th at 07:05 pm PST)</H2></summary>
 
 > This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -660,6 +795,30 @@ History of this file.
 - [ ] No other changes in version 2
 
 </details> <!-- End of V2 !-->
+
+---
+
+<details open><summary><H2>Version 3 (2025, Thursday, May 15th at 05:26 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the third version of the file, with daily improvements._
+
+> Changes:
+
+- [x] Updated the Table of Contents section
+- [x] Updated the Products section
+- - [x] Added the Gurgle Pikassa subsection
+- - [x] Added the Gurgle Orcut subsection
+- - [x] Added the Gurgle Hangover subsection
+- - [x] Added the Gurgle Pics subsection
+- [x] Updated the File Info section
+- [x] Updated the File history section
+- - [x] Added a file history entry for version 3
+- [x] Filled in the project draft
+- [ ] No other changes in version 3
+
+</details> <!-- End of V3 !-->
 
 ---
 
