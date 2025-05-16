@@ -2,10 +2,10 @@
 //// Gurgle_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Gurgle project repositories by @seanpm2001
-//// As of 2025, Wednesday, May 14th
+//// As of 2025, Thursday, May 15th
 
 //// ----------------------------------------------------- \\\\
-//// Gurgle Project (52)
+//// Gurgle Project (60)
 //// ----------------------------------------------------- \\\\
 
 //// Gurgle Core (1)
@@ -141,9 +141,29 @@ https://github.com/seanpm2001/Gurgle_News_Docs
 https://github.com/seanpm2001/Gurgle_Drawings
 https://github.com/seanpm2001/Gurgle_Drawings_Docs
 
+//// Gurgle Pikasso (2)
+
+https://github.com/seanpm2001/Gurgle_Pikasso
+https://github.com/seanpm2001/Gurgle_Pikasso_Docs
+
+//// Gurgle Orcut (2)
+
+https://github.com/seanpm2001/Gurgle_Orcut
+https://github.com/seanpm2001/Gurgle_Orcut_Docs
+
+//// Gurgle Hangover (2)
+
+https://github.com/seanpm2001/Gurgle_Hangover
+https://github.com/seanpm2001/Gurgle_Hangover_Docs
+
+//// Gurgle Pics (2)
+
+https://github.com/seanpm2001/Gurgle_Pics
+https://github.com/seanpm2001/Gurgle_Pics_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (Gurgle): 52
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=52
+//// Repo count (Gurgle): 60
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=60
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -157,15 +177,15 @@ https://github.com/seanpm2001/DeGoogle-your-Life/
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 53
-//// 52+1=53
+//// Total repo count: 61
+//// 60+1=61
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 6 (2025, Wednesday, May 14th at 07:03 pm PST)
-//// Line count (including blank lines and compiler line): 172
+//// File version: 7 (2025, Thursday, May 15th at 05:28 pm PST)
+//// Line count (including blank lines and compiler line): 192
 //// ----------------------------------------------------- \\\\
 
 //// End of file
