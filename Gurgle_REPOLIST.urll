@@ -2,10 +2,10 @@
 //// Gurgle_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Gurgle project repositories by @seanpm2001
-//// As of 2025, Thursday, May 15th
+//// As of 2025, Friday, May 16th
 
 //// ----------------------------------------------------- \\\\
-//// Gurgle Project (60)
+//// Gurgle Project (68)
 //// ----------------------------------------------------- \\\\
 
 //// Gurgle Core (1)
@@ -161,9 +161,29 @@ https://github.com/seanpm2001/Gurgle_Hangover_Docs
 https://github.com/seanpm2001/Gurgle_Pics
 https://github.com/seanpm2001/Gurgle_Pics_Docs
 
+//// Gurgle NarrowVineDRM (2)
+
+https://github.com/seanpm2001/Gurgle_NarrowVineDRM
+https://github.com/seanpm2001/Gurgle_NarrowVineDRM_Docs
+
+//// Gurgle Code (2)
+
+https://github.com/seanpm2001/Gurgle_Code
+https://github.com/seanpm2001/Gurgle_Code_Docs
+
+//// Gurgle ChromosomeOS (2)
+
+https://github.com/seanpm2001/Gurgle_ChromosomeOS
+https://github.com/seanpm2001/Gurgle_ChromosomeOS_Docs
+
+//// Gurgle Fucksia (2)
+
+https://github.com/seanpm2001/Gurgle_Fucksia
+https://github.com/seanpm2001/Gurgle_Fucksia_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (Gurgle): 60
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=60
+//// Repo count (Gurgle): 68
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=68
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -177,15 +197,15 @@ https://github.com/seanpm2001/DeGoogle-your-Life/
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 61
-//// 60+1=61
+//// Total repo count: 69
+//// 68+1=69
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 7 (2025, Thursday, May 15th at 05:28 pm PST)
-//// Line count (including blank lines and compiler line): 192
+//// File version: 8 (2025, Friday, May 16th at 05:17 pm PST)
+//// Line count (including blank lines and compiler line): 212
 //// ----------------------------------------------------- \\\\
 
 //// End of file
