@@ -49,6 +49,10 @@
 - - [01.22 - Gurgle Orcut](#Gurgle-Orcut)
 - - [01.23 - Gurgle Hangover](#Gurgle-Hangover)
 - - [01.24 - Gurgle Pics](#Gurgle-Pics)
+- - [01.25 - Gurgle NarrowVineDRM](#Gurgle-NarrowVineDRM)
+- - [01.26 - Gurgle Code](#Gurgle-Code)
+- - [01.27 - Gurgle ChromosomeOS](#Gurgle-ChromosomeOS)
+- - [01.28 - Gurgle Fucksia](#Gurgle-Fucksia)
 - [02.00 - Legal disclaimer](#Legal-disclaimer)
 - [03.00 - Original project draft](#Original-project-draft)
 - [04.00 - Common tags](#Common-tags)
@@ -57,6 +61,7 @@
 - - [06.01 - Version 1 (2025, Tuesday, May 13th at 06:09 pm PST)](#Version-1-2025-Tuesday-May-13th-at-06-09-pm-PST)
 - - [06.02 - Version 2 (2025, Wednesday, May 14th at 07:05 pm PST)](#Version-2-2025-Wednesday-May-14th-at-07-05-pm-PST)
 - - [06.03 - Version 3 (2025, Thursday, May 15th at 05:26 pm PST)](#Version-3-2025-Thursday-May-15th-at-05-26-pm-PST)
+- - [06.04 - Version 4 (2025, Friday, May 16th at xx:xx pm PST)](#Version-4-2025-Friday-May-16th-at-xx-xx-pm-PST)
 - [07.00 - Footer](#Footer)
 - - [07.99 - EOF](#EOF)
 
@@ -582,6 +587,60 @@ A parody of Google Photos.
 
 ---
 
+#### Gurgle NarrowVineDRM
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle NarrowVineDRM section</b></p></summary>
+
+> [:octocat: `Gurgle NarrowVineDRM`](https://github.com/seanpm2001/Gurgle_NarrowVineDRM/)
+
+A parody of Google WideVine DRM.
+
+See: [`Defective by Design`](https://www.defectivebydesign.org/) and [:octocat: `It's time to cut WideVine DRM`](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM/)
+
+</details> <!-- End of Gurgle NarrowVineDRM section !-->
+
+---
+
+#### Gurgle Code
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Code section</b></p></summary>
+
+> [:octocat: `Gurgle Code`](https://github.com/seanpm2001/Gurgle_Code/)
+
+A parody of Google Code.
+
+</details> <!-- End of Gurgle Code section !-->
+
+---
+
+#### Gurgle ChromosomeOS
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle ChromosomeOS section</b></p></summary>
+
+> [:octocat: `Gurgle ChromosomeOS`](https://github.com/seanpm2001/Gurgle_ChromosomeOS/)
+
+A parody of Google ChromeOS.
+
+</details> <!-- End of Gurgle ChromosomeOS section !-->
+
+---
+
+#### Gurgle Fucksia
+
+<details open><summary><p><b>Click/tap here to expand/collapse the Gurgle Fucksia section</b></p></summary>
+
+> [:octocat: `Gurgle Fucksia`](https://github.com/seanpm2001/Gurgle_Fucksia/)
+
+A parody of Google Fuchsia.
+
+Google -[💔️]- Open Source
+
+That is why Google is starting to threaten to kill Linux with Zircon, which will likely become proprietary, closed source software.
+
+</details> <!-- End of Gurgle Fucksia section !-->
+
+---
+
 _End of products section_
 
 </details> <!-- End of Products section !-->
@@ -701,12 +760,12 @@ Common tags for this project.
 <details open><summary><p lang="en">Click/tap here to expand/collapse this section</p></summary>
 
 - **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `3 (2025, Thursday, May 15th at 05:26 pm PST)`
-- **Line count (including blank lines and compiler line):** `0,846`
-- **Word count:** `05,013`
-- **Character count (with spaces):** `034,611 characters`
-- **Character count (without spaces)** `029,958 characters`
-- **File size (in bytes)** `35,536 characters`
+- **File version:** `4 (2025, Friday, May 16th at 05:16 pm PST)`
+- **Line count (including blank lines and compiler line):** `0,928`
+- **Word count:** `05,381`
+- **Character count (with spaces):** `037,217 characters`
+- **Character count (without spaces)** `032,213 characters`
+- **File size (in bytes)** `38,147 characters`
 - **Current article language:** `English (EN_USA) for main article` / `Markdown (CommonMark)` / `HTML (HTML 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -819,6 +878,29 @@ History of this file.
 - [ ] No other changes in version 3
 
 </details> <!-- End of V3 !-->
+
+---
+
+<details open><summary><H2>Version 4 (2025, Friday, May 16th at 05:16 pm PST)</H2></summary>
+
+> This version was created by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note:** _This is the fourth version of the file, with daily improvements._
+
+> Changes:
+
+- [x] Updated the Table of Contents section
+- [x] Updated the Products section
+- - [x] Added the Gurgle NarrowVineDRM subsection
+- - [x] Added the Gurgle Code subsection
+- - [x] Added the Gurgle ChromosomeOS subsection
+- - [x] Added the Gurgle Fucksia subsection
+- [x] Updated the File Info section
+- [x] Updated the File history section
+- - [x] Added a file history entry for version 4
+- [ ] No other changes in version 4
+
+</details> <!-- End of V4 !-->
 
 ---
 
